@@ -12,6 +12,6 @@ public class X {
     }
 
     public int sum(int x, int y) {
-        return x + y + x;
+        return x + y;
     }
 }
