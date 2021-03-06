@@ -10,4 +10,8 @@ public class X {
     public void sayHi() {
         System.out.println("HI, My name is " + this.name);
     }
+
+    public int sum(int x, int y) {
+        return x + y + x;
+    }
 }
